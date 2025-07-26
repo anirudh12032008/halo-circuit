@@ -3,6 +3,7 @@
 This is my spinning fan that shows in air 
 It uses an Arduino nano, some leds, a motor, and a hall sensor,when it spins fast, you can show stuff on it
 Im building it on a vero board because its a relatively simple pcb and I have never triedd working with vero boards
+
 ---
 
 ## What Does It Do?
@@ -24,6 +25,8 @@ A magnet tells the Arduino when the circle starts with the hall sensor then it b
 
 ## Circuit diagram
 <img width="3000" height="2619" alt="circuit_image" src="https://github.com/user-attachments/assets/b21c1998-962f-41ee-9d08-0d79cd6393af" />
+<img width="742" height="326" alt="prop5" src="https://github.com/user-attachments/assets/03a8ba47-a94f-48cb-bd87-052d442c4571" />
+
 
 ## BOM
 ---
