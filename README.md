@@ -4,6 +4,8 @@ This is my spinning fan that shows in air
 It uses an Arduino nano, some leds, a motor, and a hall sensor,when it spins fast, you can show stuff on it
 Im building it on a vero board because its a relatively simple pcb and I have never triedd working with vero boards
 
+https://app.cirkitdesigner.com/project/b7619eda-a46b-44f5-b1fb-f89ff9797e46
+
 ---
 
 ## What Does It Do?
