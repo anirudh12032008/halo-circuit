@@ -17,3 +17,12 @@ Time Spent - 4 Hr
 ## July 27 - Mid night grind to complete it
 so its 1am and im writing this I finished the BOM the Readme and finsihed the left over circuit and code now everything is done
 <img width="3000" height="2619" alt="circuit_image" src="https://github.com/user-attachments/assets/b7cc36af-17bf-4db5-bc44-e873d4794a36" />
+
+
+## July 29 - Created the CAD
+after the announcement that we need cad with all electronics I got started with making the CAD and yeah cad is way more annoying but I did it finally!!!1 finding the 3D models for everything and then slow pc was just 😭
+<img width="1366" height="418" alt="halo circuit v1" src="https://github.com/user-attachments/assets/b3c95dbf-ba3e-472d-a232-71afd26693af" />
+<img width="1366" height="418" alt="halo circuit v1 2" src="https://github.com/user-attachments/assets/8732a317-822f-4171-ae9e-ab9f575454af" />
+<img width="1366" height="418" alt="halo circuit v1 3" src="https://github.com/user-attachments/assets/003fa087-5969-4c60-80ee-34714f8bdfc3" />
+<img width="1366" height="418" alt="halo circuit v1 4" src="https://github.com/user-attachments/assets/7178cd92-bada-4dfc-a806-4a2f0508759c" />
+<img width="1366" height="418" alt="halo circuit v1 5" src="https://github.com/user-attachments/assets/4e919bfb-498f-406a-8fbf-c11153598af1" />
