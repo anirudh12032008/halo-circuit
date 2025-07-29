@@ -2,7 +2,7 @@ Halo - Circuit
 author: "Anirudh Sahu"
 description: "This is my spinning fan that shows in air It uses an Arduino nano, some leds, a motor, and a hall sensor,when it spins fast, you can show stuff on it Im building it on a vero board because its a relatively simple pcb and I have never triedd working with vero boards"
 created_at: "2024-07-26"
-Time spent - 5hr
+Time spent - 8hr
 
 
 ## July 26 - Created 80% project
@@ -26,3 +26,5 @@ after the announcement that we need cad with all electronics I got started with 
 <img width="1366" height="418" alt="halo circuit v1 3" src="https://github.com/user-attachments/assets/003fa087-5969-4c60-80ee-34714f8bdfc3" />
 <img width="1366" height="418" alt="halo circuit v1 4" src="https://github.com/user-attachments/assets/7178cd92-bada-4dfc-a806-4a2f0508759c" />
 <img width="1366" height="418" alt="halo circuit v1 5" src="https://github.com/user-attachments/assets/4e919bfb-498f-406a-8fbf-c11153598af1" />
+
+time spent - 3hr
